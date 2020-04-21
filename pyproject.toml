@@ -8,6 +8,10 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.7"
 pweave = "^0.30.3"
+matplotlib = "^3.2.1"
+seaborn = "^0.10.0"
+numpy = "^1.18.3"
+pandas = "^1.0.3"
 
 [tool.poetry.dev-dependencies]
 
