@@ -26,4 +26,9 @@ Algunos links útiles:
 * [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
 * [Jupyter](https://jupyter.org)
 
+## Índice
+
+1. [Introducción](build/concepts-p1.html)
+
+
 Taller elaborado por [Gustavo Magaña López](https://github.com/gmagannaDevelop), para [DCI-Net](https://github.com/DCI-NET).
